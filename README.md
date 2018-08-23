@@ -23,3 +23,4 @@ $ ng serve
 `http://localhost:4200/`にアクセスすると見られます．
 
 ## Demo
+![result](https://github.com/matakuya/tutorial-of-angular/blob/media/demo.gif)
